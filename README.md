@@ -1,6 +1,6 @@
 
-### Hi There 
-<p align="center"><img src="https://media.giphy.com/media/pKlTXHEraMH4s/giphy.gif" width="300"/></p>
+### Hi There I am a good workin penguin
+<p align="center"><img src="https://media.giphy.com/media/VkMV9TldsPd28/giphy.gif" width="300"/></p>
 <p align="center"><img src="https://media.giphy.com/media/R6Hkv8v1WAkwvvCdjI/giphy.gif" width="300"/></p>
 
 ### About Me
