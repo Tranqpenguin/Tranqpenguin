@@ -5,9 +5,10 @@
 
 ### About Me
 
-I am a Software Developer and DevOps Enthusiast </br>
+I am a Software Developer and i am very eager to start my coding journey :D! </br>
 <p align="center">
-<img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="300">.
+<img src="https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif" width="300">.
+  
 </p>  
 
 ---
