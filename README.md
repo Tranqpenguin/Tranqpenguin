@@ -38,3 +38,12 @@ I am a Software Developer and i am very eager to start my coding journey :D! </b
 
 
 ---
+---
+
+<p align="center">
+<a href="https://www.linkedin.com/in/andre-quiroa/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+</p>
+<p align="center">
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Tranqpenguin&style=flat-square&color=blue" alt=""></p>
+
+---
