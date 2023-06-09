@@ -47,3 +47,5 @@ I am a Software Developer and i am very eager to start my coding journey :D! </b
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Tranqpenguin&style=flat-square&color=blue" alt=""></p>
 
 ---
+
+##########3 Love you Laura <3 
